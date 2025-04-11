@@ -3,6 +3,7 @@ function generateRandomNumber(num) {
     return Math.floor(Math.random() * num)
   }
   
+  //update 2
   const collectiveWisdom = {
     signInfo: ['star', 'moon', 'sun', 'comet'],
     fortuneOutput: ['terrible luck', 'bad luck', 'ok luck', 'good luck', 'great luck'],
